@@ -13,12 +13,13 @@ A stubbornly optimistic form of civil protest & party to praise the positive act
 - [ ] <u>PartyCiParade Manual (EN)</u> - English missing! Do you want to add it? Please do!
 
 ## List of partyciparades
-This is a place where actually done partyciparades show up. We are just at the beginning...
+We are starting small...
 
 1. 2025-11-29 at the Bundesplenum of FridaysForFuture in Innsbruck, a mini inaugural party-ci-parade from plenary room to the dinner table.
 2. 2026-05-15 at the Critical Mass Vienna Bike Protest with [Leobard](https://github.com/leobard) and [@ExBusFahrerMitKappe](https://www.instagram.com/exbusfahrermitkappe/) being the applauders. [Video](https://youtu.be/GpVVv6Hh0Xs).
 3. 2026-06-05 at the [Radeln4Future Austria](https://radelnforfuture.at/) Vienna Bike Protest at [Steinitzsteg](https://radelnforfuture.at/steinitzsteg/) with hundreds of participants. [Video](https://www.leobard.net/blog/2026/10/08/partyciparade-bei-radeln4future-vienna-am-2026-06-05/).
-4. You are next! 
+4. 2026-08-09 at [Schönburn](https://www.burners.at/event/schoenburn-2026/) to celebrate the contributions of the participants
+5. You are next! 
    Praise you!
 
 ## Get involved
@@ -31,7 +32,15 @@ This is a place where actually done partyciparades show up. We are just at the b
 
 Partyciparade was created by Leo Sauermann for [Fridays For Future Austria](https://www.fridaysforfuture.at) and is licensed using https://creativecommons.org/licenses/by/4.0/. See more in the manual files.
 
-# Related work
+## Thanks
+
+... to many people who contributed to this idea
+
+- **Everyone** at [Fridays For Future Austria](https://www.fridaysforfuture.at) who supported this idea. Special thanks to **Nina M. from Kärnten/Koroška** for your positive protest energy.
+- **Annie Locke-Scherer**, architectural designer and builder, University lector, "MissChief" [ALScherer.com](https://www.alscherer.com/) for pointing out that temples or monuments are only one possible way to honor something and that today's climate heroes rather deserve a good party.
+- **\$teven Ra\$pa**,  Associate Director of Community Events, founding member of the Regional Network Committee and Regional Events Committee, [Burning Man](https://burningman.org/) for brainstorming how to celebrate Climate Heroes in a respectful participatory way.
+
+## Related work
 
 The idea has been around in various forms
 -  [Die goldene Brücke](https://de.wikipedia.org/wiki/Die_goldene_Br%C3%BCcke_(Spiel))  
