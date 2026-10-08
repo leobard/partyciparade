@@ -39,6 +39,7 @@ Partyciparade was created by Leo Sauermann for [Fridays For Future Austria](http
 - **Everyone** at [Fridays For Future Austria](https://www.fridaysforfuture.at) who supported this idea. Special thanks to **Nina M. from Kärnten/Koroška** for your positive protest energy.
 - **Annie Locke-Scherer**, architectural designer and builder, University lector, "MissChief" [ALScherer.com](https://www.alscherer.com/) for pointing out that temples or monuments are only one possible way to honor someone and that today's climate heroes rather deserve a good party.
 - **\$teven Ra\$pa**,  Associate Director of Community Events, founding member of the Regional Network Committee and Regional Events Committee, [Burning Man](https://burningman.org/) for brainstorming how to celebrate Climate Heroes in a respectful participatory way.
+- **Gregor Stöhr** / [@ExBusFahrerMitKappe](https://www.instagram.com/exbusfahrermitkappe/)  for getting it and going all in on our first public attempt. You are the [first follower that any movement needs](https://www.youtube.com/watch?v=fW8amMCVAJQ). 
 
 ## Related work
 
