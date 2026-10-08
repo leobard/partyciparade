@@ -30,3 +30,9 @@ This is a place where actually done partyciparades show up. We are just at the b
 ## Authors, Copyright, License
 
 Partyciparade was created by Leo Sauermann for [Fridays For Future Austria](https://www.fridaysforfuture.at) and is licensed using https://creativecommons.org/licenses/by/4.0/. See more in the manual files.
+
+# Related work
+
+The idea has been around in various forms
+-  [Die goldene Brücke](https://de.wikipedia.org/wiki/Die_goldene_Br%C3%BCcke_(Spiel))  
+- Some rugby players form a "rugby tunnel" after the match and both teams go through it, receiving and giving credit to their and the opposite team.
