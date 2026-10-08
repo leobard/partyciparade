@@ -24,13 +24,23 @@ We are starting small...
 
 ## Get involved
 
-- Do it! See what happens! Share your experience with [Leobard](https://github.com/leobard)
-- Translate it!
+- Do it! See what happens! Share your experience with [Leobard](https://github.com/leobard).
+- Translate it! Submit a [pull request](https://github.com/leobard/partyciparade/pulls) once you are done.
+- Suggest improvements or report partyciparades you did via [issues](https://github.com/leobard/partyciparade/issues) or [pull requests](https://github.com/leobard/partyciparade/pulls).
 - [Join FridaysForFuture Austria](https://fridaysforfuture.at/mitmachen) and help co-organizing PartyCiParades. You won't be alone there, [Leobard](https://github.com/leobard) is already a member.
 
 ## Authors, Copyright, License
 
 Partyciparade was created by Leo Sauermann for [Fridays For Future Austria](https://www.fridaysforfuture.at) and is licensed using https://creativecommons.org/licenses/by/4.0/. See more in the manual files.
+
+## Q & A
+
+### This is a great idea, but not software. Why GitHub?
+Partyciparade is a set of instructions how people can moderate a protest. It is intentionally published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). GitHub is great for
+- publishing Markdown
+- evolving the text collaboratively
+- discussing issues, improvements, variants
+- forking new versions, allowing multiple variants (branches), synchronizing changes between forks, merging improvements back
 
 ## Thanks
 
