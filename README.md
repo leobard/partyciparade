@@ -6,7 +6,7 @@ A stubbornly optimistic form of civil protest & party to praise the positive act
 
 ![](2026-06-05-partyciparade.jpg)
 
-**Read the Manual / Anleitung:**
+## Read the Manual / Anleitung
 
 - **[PartyCiParade Anleitung (DE)](PartyCiParade%20Anleitung%20(DE).md)** 
 
